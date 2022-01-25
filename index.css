@@ -1,0 +1,101 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.header-nav {
+    font-size: 1.875em;
+    text-align: center;
+    margin: 2.5em;
+}
+
+header nav a {
+    width: 7em;
+    display: inline-block;
+    margin: 0 2em 0 2em;
+}
+
+.link-one {
+    color: white;
+    background-color: #FF764E;
+    padding: 1.25em;
+    border-radius: 1.25em;
+    text-align: center;
+}
+
+.link-two {
+    color: white;
+    background-color: #5ED3EB;
+    padding: 1.25em;
+    border-radius: 1.25em;
+    text-align: center;
+}
+
+.link-three {
+    color: white;
+    background-color: #FFCD69;
+    padding: 1.25em;
+    border-radius: 1.25em;
+    text-align: center;
+}
+
+.title {
+    font-family: 'Chelsea Market';
+    font-size: 4.6875em;
+}
+
+.header-img-div {
+    display: inline-block;
+    margin: 0 0 0 5em;
+}
+
+.header-img {
+    border-radius: 100%;
+    height: 25em;
+    width: 25em;
+}
+
+.header-def {
+    display: inline-block;
+    text-align: center;
+    padding: 1.875em;
+    margin: 0 0 5em 2em;
+}
+
+.body-p {
+    color: white;
+    background-color: #DDB9A3;
+    font-size: 1.5em;
+    margin: 3.125em;
+    text-align: center;
+}
+
+.body-img-one {
+    margin: 3.125em 34.375em 3.125em 34.375em;
+    text-align: center;
+}
+
+.body-img-two {
+    margin: 3.125em 34.375em 3.125em 34.375em;
+    text-align: center;
+}
+
+.footer {
+    background-color: #F9E7DC;
+}
+
+.footer-img {
+    width: 100%;
+    height: 31.25em;
+}
+
+.footer-nav {
+    font-size: 1.875em;
+    text-align: center;
+    margin: 2.5em;
+}
+
+footer nav a {
+    width: 7em;
+    display: inline-block;
+    margin: 0 2em 3em 2em;
+}
